@@ -8,9 +8,10 @@
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
+        android:id="@+id/emailtextview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="bintang kanjut"
+        android:text=""
         android:textAlignment="center"
         android:textSize="50dp"
         android:layout_gravity="center"/>
